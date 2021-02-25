@@ -1,8 +1,10 @@
 more files
 
 even more
-=======
+
 creating the conflict
 
 different branch
+
+stuff done on the local branch
 
