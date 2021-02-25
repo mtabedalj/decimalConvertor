@@ -1,7 +1,10 @@
 more files
-<<<<<<< HEAD
+
 even more
-=======
+
 creating the conflict
->>>>>>> a34230ad3c7f4625982879a525386b991b9faeee
+
+different branch
+
 stuff done on the local branch
+
